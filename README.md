@@ -1,6 +1,6 @@
 # Math Statistics Utilities
 
-Package with some Math Statistics utilities (WIP :attention: :construction:).
+Package with some Math Statistics utilities (WIP :construction:).
 
 ## Available methods:
 ### __average__
