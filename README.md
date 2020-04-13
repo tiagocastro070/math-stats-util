@@ -1,7 +1,17 @@
-# JS Boilerplate
+# Math Statistics Utilities
 
-JS boilerplate general configuration using Huksy, Lint-Staged and Standard to assure code standard style accross multiple repositories.
+Package with some Math Statistics utilities (WIP :attention: :construction:).
 
-- [Husky](https://www.npmjs.com/package/husky/v/3.0.0) _to run lint-staged before any commit_
-- [Lint-Staged](https://www.npmjs.com/package/lint-staged) _for linting badly formatted files that are on staged area to be committed_
-- [Standard](https://www.npmjs.com/package/standard) _to fix all badly formatted files_
+## Available methods:
+### __average__
+Returns the [average](https://en.wikipedia.org/wiki/Average) value of a given number of parameters.
+
+### __mode__
+Return an _array_ with the [mode](https://en.wikipedia.org/wiki/Mode_(statistics)) value of a given number of parameters.
+
+### __median__
+Returns [median](https://en.wikipedia.org/wiki/Median) value based on a given number of parameters.
+
+---
+
+_Created using the [JS Boilerplate Template](https://github.com/tiagocastro070/js-boilerplate)_
