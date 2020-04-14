@@ -1,7 +1,7 @@
 {
-  "name": "stats",
+  "name": "math-stats-util",
   "version": "1.0.0",
-  "description": "JS boilerplate general configuration using Huksy, Lint-Staged and Standard to assure code standard style accross multiple repositories.",
+  "description": "Package with some Math Statistics utilities (WIP 🚧).",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
